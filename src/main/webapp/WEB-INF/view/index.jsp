@@ -58,12 +58,12 @@
                     <div class="collapse navbar-collapse nav-collapse">
                         <div class="menu-container">
                             <ul class="navbar-nav navbar-nav-right">
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover active" href="index.html">Home</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="products.html">Soft</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="faq.html">Web</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="pricing.html">Prices</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="about.html">About</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="contact.html">Contact</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover active" href="#">Home</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">Soft</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">Web</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">Prices</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">About</a></li>
+                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                             <div class="margin-b-40">
                                 <h1 class="carousel-title">&lt;/NOS</h1>
                                 <h3 style="color:white; font-family:Bitwise; margin-left:108px; color:#a1ff00; margin-top:-30px; font-size:1.9em">OCUPAMOS NOSOTROS</h3>
-                                <p>TUS IDEAS DE NEGOCIO DESARROLLADAS CON LAS HERRAMIENTAS M¡S MODERNAS  <br/> Y POTENTES DEL MERCADO </p>
+                                <p>TUS IDEAS DE NEGOCIO DESARROLLADAS CON LAS HERRAMIENTAS M√ÅS MODERNAS  <br/> Y POTENTES DEL MERCADO </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
                         </div>
@@ -119,7 +119,7 @@
                         <div class="carousel-centered">
                             <div class="margin-b-40">
                                 <h2 class="carousel-title">&lt;/WEB</h2>
-                                <p>diseÒo web a medida y responsivo, elaboramos una plataforma atractiva y personalizada <br/> que transmita el espÌritu de tu negocio.</p>
+                                <p>dise√±o web a medida y responsivo, elaboramos una plataforma atractiva y personalizada <br/> que transmita el esp√≠ritu de tu negocio.</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
                         </div>
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Art Of Coding</h3>
-                                    <p class="margin-b-5">Codeamos con buenas pr·cticas, dedicaciÛn y atenciÛn al detalle</p>
+                                    <p class="margin-b-5">Codeamos con buenas pr√°cticas, dedicaci√≥n y atenci√≥n al detalle</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>
                             </div>
@@ -200,7 +200,7 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Useful Documentation</h3>
-                                    <p class="margin-b-5">Nuestro feedback con nuestros clientes se basa en nuestro compromiso de documentar el trabajo dÌa a dÌa a traves de nuestro Client-Tracking</p>
+                                    <p class="margin-b-5">Nuestro feedback con nuestros clientes se basa en nuestro compromiso de documentar el trabajo d√≠a a d√≠a a traves de nuestro Client-Tracking</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>
                             </div>
@@ -214,7 +214,7 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Fast Delivery</h3>
-                                    <p class="margin-b-5">Innovamos en metodologÌas ·giles de trabajo para poder hacer entrgables Ûptimos semanales, nos comformamos en un team que se supera en cada trabajo</p>
+                                    <p class="margin-b-5">Innovamos en metodolog√≠as √°giles de trabajo para poder hacer entrgables √≥ptimos semanales, nos comformamos en un team que se supera en cada trabajo</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>
                             </div>
@@ -228,7 +228,7 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Free Plugins</h3>
-                                    <p class="margin-b-5">No se moleste en pensar en APIs, Beans o LibrerÌas, nosotros le hablamos de nuestros mÛdulos sin preocuparse en lenguajes, tecnologÌas o Stacks</p>
+                                    <p class="margin-b-5">No se moleste en pensar en APIs, Beans o Librer√≠as, nosotros le hablamos de nuestros m√≥dulos sin preocuparse en lenguajes, tecnolog√≠as o Stacks</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>
                             </div>
@@ -244,8 +244,8 @@
         <div class="content-lg container">
             <div class="row margin-b-40">
                 <div class="col-sm-6">
-                    <h2>Nuestros ˙ltimos productos</h2>
-                    <p>Videojuegos, P·ginas Web, Aplicaciones MÛviles y de Escritorio es lo que hacemos</p>
+                    <h2>Nuestros √∫ltimos productos</h2>
+                    <p>Videojuegos, P√°ginas Web, Aplicaciones M√≥viles y de Escritorio es lo que hacemos</p>
                 </div>
             </div>
             <!--// end row -->
@@ -259,8 +259,8 @@
                         </div>
                     </div>
                     <h4><a href="#">The Hangman Game</a> <span class="text-uppercase margin-l-20">Videojuego</span></h4>
-                    <p>CFP N∞11 Fecha de salida: V1.0. December 2017? UbicaciÛn: Comuna 9, CABA, Buenos Aires, Argentina.//
-                    Game created in conjunction with the CFP team n ∞ 11, developed in Java, MVC, multimedia in After Effect and images in Photoshop.</p>
+                    <p>CFP N¬∞11 Fecha de salida: V1.0. December 2017? Ubicaci√≥n: Comuna 9, CABA, Buenos Aires, Argentina.//
+                    Game created in conjunction with the CFP team n ¬∞ 11, developed in Java, MVC, multimedia in After Effect and images in Photoshop.</p>
                     <a class="link" href="#">See More</a>
                 </div>
                 <!-- End Latest Products -->
@@ -272,9 +272,9 @@
                             <img class="img-responsive" src="resources/img/970x647/02.jpg" alt="Latest Products Image">
                         </div>
                     </div>
-                    <h4><a href="#">Cyma Gr·fica</a> <span class="text-uppercase margin-l-20">Webpage</span></h4>
-                    <p>Cyma Gr·fica Fecha de subida. V1.0 March 2018-  UbicaciÛn: Ciudad autÛnoma de Buenos Aires.
-                    DiseÒo gr·fico preimpresiÛn, maquetado de libros, folleterÌa, formulario institucional, desarrollo de imagen corporativa, comunity manager, diseÒo web</p>
+                    <h4><a href="#">Cyma Gr√°fica</a> <span class="text-uppercase margin-l-20">Webpage</span></h4>
+                    <p>Cyma Gr√°fica Fecha de subida. V1.0 March 2018-  Ubicaci√≥n: Ciudad aut√≥noma de Buenos Aires.
+                    Dise√±o gr√°fico preimpresi√≥n, maquetado de libros, folleter√≠a, formulario institucional, desarrollo de imagen corporativa, comunity manager, dise√±o web</p>
                     <a class="link" href="http://www.graficacyma.com">See Page</a>
                 </div>
                 <!-- End Latest Products -->
@@ -287,8 +287,8 @@
                         </div>
                     </div>
                     <h4><a href="#">Impresos Ricardi</a> <span class="text-uppercase margin-l-20">Webpage</span></h4>
-                    <p>Ricardi Impresos Fecha de subida: V2.0 March 2018  UbicaciÛn: Gran Buens Aires.
-                    Desarrollo total de p·gina web, Responsive design html5 CSS JavaScript Bootstrap JQuery.</p>
+                    <p>Ricardi Impresos Fecha de subida: V2.0 March 2018  Ubicaci√≥n: Gran Buens Aires.
+                    Desarrollo total de p√°gina web, Responsive design html5 CSS JavaScript Bootstrap JQuery.</p>
                     <a class="link" href="http://www.ricimp.com.ar/">See Page</a>
                 </div>
                 <!-- End Latest Products -->
@@ -463,9 +463,9 @@
                 <div class="row margin-b-40">
                     <div class="col-sm-6">
                         <h2><img src="resources/img/logo-monster.png">Somos nosotros.</h2>
-                        <p>Nosotros Somos diferentes, un equipo de amigos con cualidades diferenciales entre sÌ que supo acoplarse primero por amistad y cariÒo, y despuÈs por desempeÒo y gusto de dar lo mejor de sÌ.</br>
-                        <p>Nos gusta depuntar el vicio de la innovaciÛn y la mejora de procesos ya conocidos, somos creativos, audaces, eficientes, amables y rompedores de dogmas y prejuicios.</p>
-                        <p>Una de nuestras mayores aportaciones de valor es la interrelacion de diferentes disciplinas y especialidades dentro de nuestro equipo interdiciplinario con un unico objetivo, el cual es acompaÒar a que todos y cada uno de nuestros clientes a que alcancen sus metas digitales y de innovacion tecnologica, asesorandoles de manera personalizada, definiendo las estrategias para alcanzarlas y llevandolas a cabo sin importar el reto tecnico y/o comunicativo y marketiniano que implique. s</p>
+                        <p>Nosotros Somos diferentes, un equipo de amigos con cualidades diferenciales entre s√≠ que supo acoplarse primero por amistad y cari√±o, y despu√©s por desempe√±o y gusto de dar lo mejor de s√≠.</br>
+                        <p>Nos gusta depuntar el vicio de la innovaci√≥n y la mejora de procesos ya conocidos, somos creativos, audaces, eficientes, amables y rompedores de dogmas y prejuicios.</p>
+                        <p>Una de nuestras mayores aportaciones de valor es la interrelacion de diferentes disciplinas y especialidades dentro de nuestro equipo interdiciplinario con un unico objetivo, el cual es acompa√±ar a que todos y cada uno de nuestros clientes a que alcancen sus metas digitales y de innovacion tecnologica, asesorandoles de manera personalizada, definiendo las estrategias para alcanzarlas y llevandolas a cabo sin importar el reto tecnico y/o comunicativo y marketiniano que implique. s</p>
                     </div>
                 </div>
                 <!--// end row -->
