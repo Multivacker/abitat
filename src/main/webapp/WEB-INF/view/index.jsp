@@ -5,7 +5,7 @@
 <html lang="en" class="no-js">
     <!-- Starts HEAD -->
     <head>
-        <meta charset="utf-8"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <title>a.bit.at</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
