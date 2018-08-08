@@ -937,6 +937,14 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
     [Carousel]
 ------------------------------------------------------------------*/
+
+@font-face {
+    font-family: "bitwise";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("/fonts/bitwise.eot") format("eot"), url("/fonts/bitwise.ttf") format("truetype");
+}
+
 .carousel-indicators {
   left: auto;
   width: auto;
