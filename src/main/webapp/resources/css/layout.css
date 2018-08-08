@@ -939,10 +939,13 @@ fieldset[disabled] .btn-theme {
 ------------------------------------------------------------------*/
 
 @font-face {
-    font-family: "bitwise";
-    font-style: normal;
-    font-weight: normal;
-    src: local("?"), url("/fonts/bitwise.woff") format("woff"), url("/fonts/bitwise.ttf") format("truetype");
+  font-family: 'bitwise';
+  src: url('resources/fonts/bitwise.eot'); /* IE9 Compat Modes */
+  src: url('resources/fonts/bitwise.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('resources/fonts/bitwise.woff2') format('woff2'), /* Super Modern Browsers */
+       url('resources/fonts/bitwise.woff') format('woff'), /* Pretty Modern Browsers */
+       url('resources/fonts/bitwise.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('resources/fonts/bitwise.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 .carousel-indicators {
