@@ -964,7 +964,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .carousel-title {
-  font-family: bitwise;
+  font-family: 'bitwise'Fallback, sans-serif;
   font-size: 80px;
   font-weight: 700;
   color: #a1ff00;
