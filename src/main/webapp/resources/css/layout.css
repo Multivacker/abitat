@@ -942,7 +942,7 @@ fieldset[disabled] .btn-theme {
     font-family: "bitwise";
     font-style: normal;
     font-weight: normal;
-    src: local("?"), url("/fonts/bitwise.eot") format("eot"), url("/fonts/bitwise.ttf") format("truetype");
+    src: local("?"), url("/fonts/bitwise.woff") format("woff"), url("/fonts/bitwise.ttf") format("truetype");
 }
 
 .carousel-indicators {
@@ -961,7 +961,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .carousel-title {
-  font-family: Bitwise;
+  font-family: bitwise;
   font-size: 80px;
   font-weight: 700;
   color: #a1ff00;
